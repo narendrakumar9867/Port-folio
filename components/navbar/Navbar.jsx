@@ -25,7 +25,7 @@ const NavbarPage = () => {
 
                     {/* Resume Button */}
                     <div className="hidden md:flex">
-                        <a href="final resume.pdf" download className="bg-black text-white px-4 py-2 rounded-md hover:bg-gray-800 flex items-center gap-1">
+                        <a href="narendra_cv.pdf" download className="bg-black text-white px-4 py-2 rounded-md hover:bg-gray-800 flex items-center gap-1">
                         Resume <Download size={16} />
                         </a>
                     </div>
