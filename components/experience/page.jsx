@@ -5,12 +5,10 @@ import { motion } from 'framer-motion';
 
 const experiences = [
   {
-    role: 'Backend Developer Intern',
+    role: 'Full Stack Developer Intern',
     company: 'Hues Apply',
     duration: 'Feb 2025 - May 2025',
-    description: `During this internship, I was part of the backend team, where my responsibilities included handling backend APIs,
-    developing modules and managing database-related tasks. I worked on optimizing backend performance, ensuring
-    efficient data handling and contributing to the overall architecture of the system.`,
+    description: `I'm working as a Full Stack Developer intern, contributing to the development and maintenance of server-side logic. My role involves building efficient APIs, managing databases, and ensuring seamless integration with frontend services.`,
   },
   {
     role: 'Machine Learning Intern',
