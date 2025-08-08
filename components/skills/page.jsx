@@ -54,14 +54,6 @@ function SkillPage() {
             <span className="mt-2 text-sm text-amber-50">Express.js</span>
           </div>
           <div className="flex flex-col items-center">
-            <FaPython className="text-blue-500 text-4xl" />
-            <span className="mt-2 text-sm text-amber-50">Python</span>
-          </div>
-          <div className="flex flex-col items-center">
-            <SiDjango className="text-green-800 text-4xl" />
-            <span className="mt-2 text-sm text-amber-50">Django</span>
-          </div>
-          <div className="flex flex-col items-center">
             <SiMongodb className="text-green-700 text-4xl" />
             <span className="mt-2 text-sm text-amber-50">MongoDB</span>
           </div>
