@@ -29,11 +29,11 @@ const experiences = [
   },
   {
     role: 'Developer Team Lead',
-    company: 'DYPIEMR, Akurdi, Pune',
+    company: '(Remote)DYPIEMR, Akurdi',
     duration: 'May 2024 -Dec2024',
     description:
-      ` As the Lead Backend Developer in my college, I led a team in building scalable web applications using Django and
-      FastAPI, developing RESTful APIs and optimizing database performance. I also managed deployments with Docker,
+      ` As the Lead Full Stack Developer in college, I led a team in building scalable web applications using MERN tech
+      , developing RESTful APIs and optimizing database performance. I also managed deployments with Docker,
       automated CI/CD pipelines, and mentored junior developers.`,
   },
 ];
