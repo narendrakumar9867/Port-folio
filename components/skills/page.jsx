@@ -6,6 +6,7 @@ function SkillPage() {
   return (
     <section className="min-h-auto flex flex-col-reverse md:flex-row items-center justify-between px-6 md:px-16 lg:px-32 bg-gray-800 text-black py-20">
       <div className="w-full text-center">
+        
         <h2 className="text-3xl md:text-5xl font-bold mb-8 text-white">My Skills</h2>
 
         <p className="text-white max-w-2xl mx-auto mb-10 text-sm md:text-base">
