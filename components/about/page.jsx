@@ -17,10 +17,7 @@ const AboutPage = () => {
           Based In <span className="font-bold">India.</span>
         </h1>
         <p className="text-gray-600 text-sm sm:text-base px-2 md:px-0">
-          I am a dedicated professional with skills in Python, Django, FastAPI, RESTful APIs,
-          GraphQL, Node.js, Express.js, MongoDB, and PostgreSQL. I enjoy solving complex problems,
-          designing efficient algorithms, and building user-friendly solutions. With experience in
-          Software Development projects, I thrive in team environments and embrace the latest tech.
+          With hands-on, real-world experience as a Full Stack Developer, I specialize in building end-to-end web applications using Next.js, React, Node.js, Express.js, and MongoDB. I focus on designing scalable, high-performance systems with clean architecture and maintainable code. I am comfortable working across both frontend and backend layers, ensuring seamless integration, efficient APIs, and optimized user experiences. I am highly motivated to adopt new technologies and take on complex engineering challenges that continuously strengthen my technical depth and problem-solving skills.
         </p>
         
         <div className="flex justify-center md:justify-start items-center gap-4 pt-2">

@@ -5,10 +5,22 @@ import { motion } from 'framer-motion';
 
 const experiences = [
   {
+    role: 'SDE Intern',
+    company: 'Hues Apply',
+    duration: 'Jun 2025 - Sep 2025',
+    description: `I'm working as a SDE intern, contributing to the development and maintenance of server-side logic.`,
+  },
+  {
     role: 'Full Stack Developer Intern',
     company: 'Hues Apply',
-    duration: 'Feb 2025 - May 2025',
-    description: `I'm working as a Full Stack Developer intern, contributing to the development and maintenance of server-side logic. My role involves building efficient APIs, managing databases, and ensuring seamless integration with frontend services.`,
+    duration: 'Mar 2025 - May 2025',
+    description: `I'm working as a Full Stack Developer intern, My role involves building efficient APIs, managing databases, and ensuring seamless integration with frontend services.`,
+  },
+  {
+    role: 'Backend Developer Intern',
+    company: 'Hues Apply',
+    duration: 'Feb 2025 - Mar 2025',
+    description: `I'm working as a Full Stack Developer intern, My role involves building efficient APIs, managing databases, and ensuring seamless integration with frontend services.`,
   },
   {
     role: 'Machine Learning Intern',
@@ -19,22 +31,18 @@ const experiences = [
       tasks, and analyzed ML research papers to stay updated on advancements and enhance model performance.`,
   },
   {
-    role: 'Open Source Contributor',
-    company: 'Open Source Community',
-    duration: 'Dec 2024 - Present',
+    role: 'Campus Ambassadors Internship',
+    company: 'E-cell, IIT Bombay',
+    duration: 'Jul 2024 - Dec 2024',
     description:
-      `Contributed to Node.js projects by implementing core features, optimizing performance, and writing tests and
-      documentation. Skilled in web development (Node.js, Express.js, React) and actively engaged in the open-source
-      community.`,
+      `As a Campus Ambassador, I collaborated with IIT Bombay to promote entrepreneurship and connect students to opportunities.`,
   },
   {
-    role: 'Developer Team Lead',
-    company: '(Remote)DYPIEMR, Akurdi',
-    duration: 'May 2024 -Dec2024',
+    role: 'Event Deputy Lead of DimensionsForge',
+    company: 'Paradox, IIT Madras',
+    duration: 'May 2024 - Jun 2024',
     description:
-      ` As the Lead Full Stack Developer in college, I led a team in building scalable web applications using MERN tech
-      , developing RESTful APIs and optimizing database performance. I also managed deployments with Docker,
-      automated CI/CD pipelines, and mentored junior developers.`,
+      `At IIT Madras, I collaborated with a startup team and served as the Event Deputy Lead for DimensionsForge.`,
   },
 ];
 

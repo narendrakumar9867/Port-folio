@@ -5,11 +5,9 @@ import { ChevronLeft, ChevronRight } from "lucide-react";
 
 const projects = [
   {
-    title: "Chat-app",
+    title: "EasyHireDesk – Recruitment Management Platform",
     description:
-      `This is a secure, encryption-based chat web application for private, person-to-person messaging. It ensures
-      only intended users can communicate and share media safely. Built with Node.js, Express.js, and React, it uses endto
-      end encryption for complete privacy.`,
+      `Designed and developed a full-stack EdTech platform for job seekers scholarships, and grants using Next.js, Node.js, Express.js, and MongoDB to enhance learning and career opportunities. Built secure backend APIs with authentication, role-based access, and dynamic data handling, and integrated Redis for optimized performance. Containerized services with Docker and deployed scalable applications on AWS (S3, Lambda, EC2, CloudFront) ensuring high availability and reliability`,
     tags: ["Node.JS", "Express.JS", "MongoDB", "React", "Next.JS", "MUI"],
   },
   {
